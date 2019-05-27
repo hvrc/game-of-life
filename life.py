@@ -2,15 +2,6 @@ from processes import *
 
 def main():
 
-    # try:
-    #     print("\n")
-    #     n = int(input("Enter the size of the grid: "))
-    #     size = int(input("Enter the size of the window: "))
-    #     print("\n")
-    # except:
-    #     n = 60
-    #     size = 600
-
     n = 35
     size = 700
 
