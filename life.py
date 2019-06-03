@@ -2,7 +2,7 @@ from processes import *
 
 def main():
 
-    n = 35
+    n = 70
     size = 700
 
     framerate = 20
