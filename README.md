@@ -35,3 +35,9 @@ G - Toggle grid
 3 - Middleweight spaceship  
 4 - Heavyweight spaceship  
 0 - Gosper Glider Gun  
+
+<img src="https://github.com/hvrc/Game-of-life/blob/master/pong%20screenshot%201.png" width="500">
+
+<img src="https://github.com/hvrc/pong/blob/master/pong%20screenshot%201.png" width="500">
+
+
